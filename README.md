@@ -6,16 +6,13 @@
 - 👯 I’m looking to collaborate with other developer's .
 - ⚡ Fun fact: I love to watching Anime (Otaku)
 
+### Connect With Me
 
 
+<br />
+<br />
+<br />
 
-<!--
-**Piyush-linux/Piyush-linux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
+<!--Status-->
+[![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush)](https://github.com/anuraghazra/github-readme-stats)
