@@ -23,8 +23,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush-linux&show_icons=true&locale=en" alt="piyush-linux" /></p>
 
-
-![gif](https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif)
-  <span>
-  ![gif](https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif)
-  </span>
+<span>
+<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif">
+</span>
+<span>
+<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif">
+</span>
