@@ -1,9 +1,9 @@
 <!-- gif , img , emoji , icon , content , link  https://forthebadge.com/  -->
-
+<img src="header.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img src="chill.png"/>
+<!-- <img src="chill.png"/> -->
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
