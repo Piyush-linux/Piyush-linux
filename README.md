@@ -1,6 +1,8 @@
-<!-- gif , img , emoji , icon , content , link  -->
+<!-- gif , img , emoji , icon , content , link  https://forthebadge.com/  -->
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+
+<img src="chill.png"/>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
@@ -21,3 +23,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush-linux&show_icons=true&locale=en" alt="piyush-linux" /></p>
 
+
+![gif](https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif)
+  <span>
+  ![gif](https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif)
+  </span>
