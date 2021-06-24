@@ -1,7 +1,10 @@
+<!-- gif , img , emoji , icon , content , link  -->
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on [Flask App's](https://github.com/Piyush-linux/GC_Flask)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
+- 🔭 I’m currently working on Vue JS
 
 - 🌱 I’m currently learning **C++**
 
