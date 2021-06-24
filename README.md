@@ -1,4 +1,4 @@
-<!-- gif , img , emoji , icon , content , link  https://forthebadge.com/  -->
+<!-- gif , img , emoji , icon , content , link  https://forthebadge.com/  canva: header -->
 <img src="header.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">A passionate Web developer from India</h3>
@@ -25,5 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush-linux&show_icons=true&locale=en" alt="piyush-linux" /></p>
 </span>
 <span>
-<img src="https://media.giphy.com/media/2FaztmtTL36dU0Zlm/giphy.gif" width="80%" />
+<img src="https://media.giphy.com/media/2FaztmtTL36dU0Zlm/giphy.gif" width="40%" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="40%" />
 </span>
