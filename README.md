@@ -19,22 +19,13 @@
 
 
 
-- 🔭 I’m currently working on Vue JS
+- 🔭 I’m currently working on NextJS
 
-- 🌱 I’m currently learning **EXPRESS**
+- 🌱 I’m currently learning **Strapi CMS**
 
 - ⚡ Fun fact **I Love Anime** <img src="heart.gif" alt="hrt" height="20">
 
-<span>
-  
-</p>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyush-linux&show_icons=true&locale=en&layout=compact" alt="piyush-linux" width="40%"/></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush-linux&show_icons=true&locale=en" alt="piyush-linux" width="50%" /></p>
-</span>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -54,28 +45,10 @@
 </div>
 
 <hr>
+<!-- polywork -->
 <div align="center">
-<span style="width:100%;">
-<!--  portfolio  -->
-  <a href="https://piyush98.netlify.app/" title="portfolio">
-    <img style="margin: 20px" src="https://img.icons8.com/dusk/2x/stich--v2.gif" height="50" />
-  </a>
-<!--  facebook  -->
-  <a href="https://www.facebook.com/profile.php?id=100031172302503" title="">
-<img style="margin: 20px" src="https://img.icons8.com/color-glass/2x/facebook-new.png" height="50" />
-    </a>
-<!--  insta  -->
-    <a href="https://www.instagram.com/z.e.n_____/" title="insta">
-<img style="margin: 20px" src="https://img.icons8.com/color-glass/2x/instagram-new.png" height="50" />
-      </a>
-<!--  blog  -->
-      <a href="https://dev.to/piyushlinux" title="blog">
-  <img style="margin: 20px" src="https://img.icons8.com/color/2x/blogger.png" height="50" />
-        </a>
-<!--  twitter  -->
-        <a href="https://twitter.com/Piyush67372814" title="">
-  <img style="margin: 20px" src="https://img.icons8.com/color/2x/twitter-squared.png" height="50" />
-          </a>
-  
-</span>
+  <h3> coming soon ...</h3>
+    <img src="https://skillicons.dev/icons?i=devto,instagram,discord,mastodon" /> <br>
 </div>
+
+
