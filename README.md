@@ -26,29 +26,19 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,tailwind,bootstrap,html,css" /> <br>
-    <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,github,docker,git,gitlab,vim,ubuntu" /> <br>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,nuxtjs,vue,tailwind,bootstrap,html,css,sass,bulma" /> <br>
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,github,docker,git,gitlab,vim,ubuntu,bash" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,mysql,flask" /><br>
 </div>
-<!-- <span>
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
-  <img style="margin: 10px" src="bulma.svg" alt="Bulma" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://img.icons8.com/color/2x/console.png" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<img style="margin: 10px" src="https://img.icons8.com/color/2x/vue-js.png" height="50" />
-</div>  
-</span> -->
+<!-- stats -->
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+<!--   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=piyush-linux&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+<!--   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+</div>
 
 <hr>
 <div align="center">
