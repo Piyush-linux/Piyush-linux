@@ -22,7 +22,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush-linux&show_icons=true&locale=en" alt="piyush-linux" width="50%" /></p>
 </span>
-<span>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+<!-- <span>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  
@@ -40,7 +47,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 <img style="margin: 10px" src="https://img.icons8.com/color/2x/vue-js.png" height="50" />
 </div>  
-</span>
+</span> -->
 
 <hr>
 <div align="center">
