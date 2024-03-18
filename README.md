@@ -48,7 +48,7 @@
 <!-- polywork -->
 <div align="center">
   <h3> coming soon ...</h3>
-    <img src="https://skillicons.dev/icons?i=devto,instagram,discord,mastodon" /> <br>
+    <img src="https://skillicons.dev/icons?i=devto,instagram,discord,mastodon,twitter" /> <br>
 </div>
 
 
