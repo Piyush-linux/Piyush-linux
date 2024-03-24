@@ -26,6 +26,16 @@
 - ⚡ Fun fact **I Love Anime** <img src="heart.gif" alt="hrt" height="20">
 
 
+---
+
+| My Setup | meow meow | 
+| -- | -- | 
+| Linux | Arch : archcraft  | 
+| vscode | Tailwind |
+| Obsidian | Fit_Sync, RoyalVelvel, EmojiShortCode, OmniSearch |
+
+---
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
