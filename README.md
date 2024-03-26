@@ -30,9 +30,9 @@
 
 | My Setup | meow meow | 
 | -- | -- | 
-| Linux | Arch : archcraft  | 
-| vscode | Tailwind |
-| Obsidian | Fit_Sync, RoyalVelvel, EmojiShortCode, OmniSearch |
+| Linux | Laptop : archcraft(Arch), PC : Zorin(ubuntu) |   | 
+| vscode | `Tailwind` |
+| Obsidian | `Fit_Sync, RoyalVelvel, EmojiShortCode, OmniSearch` |
 
 ---
 
