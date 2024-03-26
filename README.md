@@ -18,12 +18,17 @@
 </div>
 
 
+
+<!-- <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" /> -->
+<img align="right" height="270px" alt="GIF" src="work.gif" />
+
 - 🔭 I’m currently working on NextJS
 
 - 🌱 I’m currently learning **Strapi CMS**
 
 - ⚡ Fun fact **I Love Anime** <img src="heart.gif" alt="hrt" height="20">
 
+<br/>
   
 | My Setup | meow meow | 
 | -- | -- | 
