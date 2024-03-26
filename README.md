@@ -18,21 +18,19 @@
 </div>
 
 
-
 - 🔭 I’m currently working on NextJS
 
 - 🌱 I’m currently learning **Strapi CMS**
 
 - ⚡ Fun fact **I Love Anime** <img src="heart.gif" alt="hrt" height="20">
 
-
----
-
+  
 | My Setup | meow meow | 
 | -- | -- | 
 | Linux | Laptop : archcraft(Arch), PC : Zorin(ubuntu) |   | 
 | vscode | `Tailwind` |
 | Obsidian | `Fit_Sync, RoyalVelvel, EmojiShortCode, OmniSearch` |
+
 
 ---
 
@@ -61,4 +59,7 @@
     <img src="https://skillicons.dev/icons?i=devto,instagram,discord,mastodon,twitter" /> <br>
 </div>
 
+<div align="center">
+  <img src="/work.gif" />
+</div>
 
