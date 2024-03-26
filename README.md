@@ -64,7 +64,3 @@
     <img src="https://skillicons.dev/icons?i=devto,instagram,discord,mastodon,twitter" /> <br>
 </div>
 
-<div align="center">
-  <img src="/work.gif" />
-</div>
-
