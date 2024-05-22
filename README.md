@@ -32,8 +32,8 @@
   
 | My Setup | meow meow | 
 | -- | -- | 
-| 🐧 OS | Linux : Arch    | 
-| 💻 Tools | Sublime, Brave, Alacritty  |
+| 🐧 OS | Linux : Archcraft    | 
+| 💻 Tools | Sublime, Brave, Alacritty, Neovim  |
 | 🗒️ Note Taking |  Obsidian : `Fit_Sync, RoyalVelvel, EmojiShortCode, OmniSearch` |
 
 
