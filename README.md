@@ -60,7 +60,24 @@
 <hr>
 <!-- polywork -->
 <div align="center">
-  <h3> coming soon ...</h3>
-    <img src="https://skillicons.dev/icons?i=devto,instagram,discord,mastodon,twitter" /> <br>
+  
+  <a href="https://mastodon.social/@piyush_linux">
+    <img src="https://skillicons.dev/icons?i=mastodon" />
+  </a>
+  
+  <!-- <a href="https://mastodon.social/@piyush_linux">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a> -->
+
+  
+  <a href="https://dev.to/piyush-linux">
+    <img src="https://skillicons.dev/icons?i=devto" />
+  </a>
+
+  
+  <a href="https://twitter.com/piyush_linux">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+    
 </div>
 
