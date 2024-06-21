@@ -20,16 +20,28 @@
 
 
 <!-- <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" /> -->
+<table style="margin-top: 10px;">
+  <tr>
+    <td>
+      <img height="50%" alt="GIF" src="work.gif" />
+<!--       <img src="https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430" alt="IMG_1094" width="800" height="450" /> -->
+    </td>
+    <td>
+                             
+<strong style="font-size: 45px;">Void</strong>  
+- 🔭 I’m currently working on NextJS <br>
+- 🌱 I’m currently learning **Strapi CMS** <br>
+- ⚡ Fun fact **I Love Anime** <br>
+- I love cats! <br>
+- Twitter/X : https://twitter.com/piyush_linux <br>
+- Website : https://piyush.github.io <br>
+    </td>
+  </tr>
+</table>
 
 
 <div style="display:flex;jutsify-items:center;">
-  
-<ul>
-  <li> 🔭 I’m currently working on NextJS </li>
-  <li>🌱 I’m currently learning **Strapi CMS**</li>
-  <li>⚡ Fun fact **I Love Anime**</li>
-</ul>
-<img align="right" height="50%" alt="GIF" src="work.gif" />
+
 </div>
 
 <br/>
