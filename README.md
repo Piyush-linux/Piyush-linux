@@ -20,15 +20,18 @@
 
 
 <!-- <img align="right" height="270px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" /> -->
-<table style="margin-top: 10px;">
+<br/>
+<br/>
+
+<table>
   <tr>
     <td>
-      <img height="50%" alt="GIF" src="work.gif" />
+      <img height="100%" alt="GIF" src="work.gif" />
 <!--       <img src="https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430" alt="IMG_1094" width="800" height="450" /> -->
     </td>
     <td>
                              
-<strong style="font-size: 45px;">Void</strong>  
+<strong style="font-size: 45px;">P I Y U S H</strong>  
 - 🔭 I’m currently working on NextJS <br>
 - 🌱 I’m currently learning **Strapi CMS** <br>
 - ⚡ Fun fact **I Love Anime** <br>
