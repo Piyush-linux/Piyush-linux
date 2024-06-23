@@ -37,8 +37,10 @@
 - 🌱 I’m currently learning **Strapi CMS** <br>
 - ⚡ Fun fact **I Love Anime** <br>
 - 🐱 I love cats! <br>
-- 💙 Twitter/X : https://twitter.com/piyush_linux <br>
-- 💚 Website : https://piyush-linux.github.io <br>
+- 💙 Twitter/X : https://twitter.com/piyush_linux <br/>
+- 💜 Mastodon : https://mastodon.social/@piyush_linux <br/>
+- 💚 Website : https://piyush-linux.github.io <br/>
+
     </td>
   </tr>
 </table>
