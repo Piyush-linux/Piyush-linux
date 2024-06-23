@@ -37,7 +37,8 @@
 - 🌱 I’m currently learning **Strapi CMS** <br>
 - ⚡ Fun fact **I Love Anime** <br>
 - 🐱 I love cats! <br>
-- 💙 Twitter/X : https://twitter.com/piyush_linux <br/>
+- 🤍 Twitter/X : https://twitter.com/piyush_linux <br/>
+- 💙 LinkedIn : https://www.linkedin.com/in/piyush-p-88a27b27b/ <br/>
 - 💜 Mastodon : https://mastodon.social/@piyush_linux <br/>
 - 💚 Website : https://piyush-linux.github.io <br/>
 
@@ -78,26 +79,4 @@
 </div>
 
 <hr>
-<!-- polywork -->
-<div align="center">
-  
-  <a href="https://mastodon.social/@piyush_linux">
-    <img src="https://skillicons.dev/icons?i=mastodon" />
-  </a>
-  
-  <!-- <a href="https://mastodon.social/@piyush_linux">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a> -->
-
-  
-  <a href="https://dev.to/piyush-linux">
-    <img src="https://skillicons.dev/icons?i=devto" />
-  </a>
-
-  
-  <a href="https://twitter.com/piyush_linux">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-    
-</div>
 
