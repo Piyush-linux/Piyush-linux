@@ -23,41 +23,40 @@
 <br/>
 <br/>
 
+<div align="center">
 <table>
   <tr>
     <td>
       <img height="100%" alt="GIF" src="work.gif" />
 <!--       <img src="https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430" alt="IMG_1094" width="800" height="450" /> -->
     </td>
-    <td>
+    <td align="left">
                              
 <strong style="font-size: 45px;">P I Y U S H</strong>  
 - 🔭 I’m currently working on NextJS <br>
 - 🌱 I’m currently learning **Strapi CMS** <br>
 - ⚡ Fun fact **I Love Anime** <br>
-- I love cats! <br>
-- Twitter/X : https://twitter.com/piyush_linux <br>
-- Website : https://piyush.github.io <br>
+- 🐱 I love cats! <br>
+- 💙 Twitter/X : https://twitter.com/piyush_linux <br>
+- 💚 Website : https://piyush-linux.github.io <br>
     </td>
   </tr>
 </table>
-
-
-<div style="display:flex;jutsify-items:center;">
-
 </div>
 
 <br/>
-  
+
+<div align="center">
+
 | My Setup | meow meow | 
 | -- | -- | 
 | 🐧 OS | Linux : Archcraft    | 
 | 💻 Tools | Sublime, Brave, Alacritty, Neovim  |
-| 🗒️ Note Taking |  Obsidian : `Fit_Sync, RoyalVelvel, EmojiShortCode, OmniSearch` |
+| 🗒️ Note Taking |  Obsidian : <br/>  `Fit_Sync, RoyalVelvel, EmojiShortCode, OmniSearch, Calendar, HomePage, PomodoroTimer` |
 
+</div>
 
----
-
+<br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
