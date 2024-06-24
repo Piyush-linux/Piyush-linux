@@ -72,10 +72,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<!--   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-  <img width="100%" src="https://github-readme-stats-salesp07.vercel.app/api?username=piyush-linux&count_private=false&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-<!--   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+  <img width="100%" src="https://camo.githubusercontent.com/9c06e93ffccc0826e4fe674e687060d127ddd816fde5f273e6833d31e24c888e/68747470733a2f2f6769746875622d726561646d652d73746174732d73616c65737030372e76657263656c2e6170702f6170693f757365726e616d653d7069797573682d6c696e757826636f756e745f707269766174653d66616c73652673686f775f69636f6e733d74727565267468656d653d72656163742672616e6b5f69636f6e3d67697468756226626f726465725f7261646975733d3130" alt="readme stats" />
 </div>
 
 <hr>
