@@ -1,7 +1,7 @@
 <!-- gif , img , emoji , icon , content , link  https://forthebadge.com/  canva: header -->
 <img src="new.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A Web Developer with a knack for Open Source</h3>
 
 <!-- <img src="chill.png"/> -->
 
