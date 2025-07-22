@@ -68,12 +68,4 @@
     <img src="https://skillicons.dev/icons?i=vscode,sublime,linux,github,docker,git,gitlab,vim,ubuntu,bash" /> <br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,mysql,flask" /><br>
 </div>
-<!-- stats -->
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width="100%" src="https://camo.githubusercontent.com/9c06e93ffccc0826e4fe674e687060d127ddd816fde5f273e6833d31e24c888e/68747470733a2f2f6769746875622d726561646d652d73746174732d73616c65737030372e76657263656c2e6170702f6170693f757365726e616d653d7069797573682d6c696e757826636f756e745f707269766174653d66616c73652673686f775f69636f6e733d74727565267468656d653d72656163742672616e6b5f69636f6e3d67697468756226626f726465725f7261646975733d3130" alt="readme stats" />
-</div>
-
-<hr>
 
