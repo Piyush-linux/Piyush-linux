@@ -38,7 +38,7 @@
 - ⚡ Fun fact **I Love Anime** <br>
 - 🐱 I love cats! <br>
 - 🤍 Twitter/X : https://twitter.com/piyush_linux <br/>
-- 💙 LinkedIn : https://www.linkedin.com/in/shubham-c-88a27b27b/ <br/>
+- 💙 LinkedIn : https://www.linkedin.com/in/shubham-chavan-dev/ <br/>
 - 💜 Mastodon : https://mastodon.social/@piyush_linux <br/>
 - 💚 Website : https://piyush-linux.github.io <br/>
 
