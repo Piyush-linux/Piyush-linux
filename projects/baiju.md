@@ -18,7 +18,17 @@ The website was designed to:
 - Provide an easy-to-navigate experience for both mobile and desktop users
 - Be fast, responsive, and easy to update if needed
 
----
+## Screen Shots 
+
+<div align="center">
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/59accf79-d854-4f53-b653-e6d9fdaf20af" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/dea314d8-114a-4152-83e2-cf4ed2c8c76e" />
+</div>
+
+<div align="center">
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/53100045-3ac8-42c5-b35a-5d3b9912ec05" />
+  <img width="45%" alt="image" src="https://github.com/user-attachments/assets/2eb32ade-b083-4062-a24d-2392fe9d37c8" />
+</div>
 
 ## 🚀 Features
 
@@ -48,7 +58,6 @@ The website was designed to:
 - 🎬 **Collaborated with Aamir Khan on film-related architectural design**
 - 📐 **Known for precise, hand-built scale models**
 
----
 
 ## ✍️ Developer
 
