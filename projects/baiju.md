@@ -8,8 +8,6 @@ This project showcases his work and career in a visually appealing and accessibl
 
 🔗 [baijughandat.netlify.app](https://baijughandat.netlify.app)
 
----
-
 ## 📸 Project Overview
 
 The website was designed to:
@@ -24,7 +22,7 @@ The website was designed to:
   <img width="45%" alt="image" src="https://github.com/user-attachments/assets/59accf79-d854-4f53-b653-e6d9fdaf20af" />
   <img width="45%" alt="image" src="https://github.com/user-attachments/assets/dea314d8-114a-4152-83e2-cf4ed2c8c76e" />
 </div>
-
+<br/>
 <div align="center">
   <img width="45%" alt="image" src="https://github.com/user-attachments/assets/53100045-3ac8-42c5-b35a-5d3b9912ec05" />
   <img width="45%" alt="image" src="https://github.com/user-attachments/assets/2eb32ade-b083-4062-a24d-2392fe9d37c8" />
@@ -38,7 +36,6 @@ The website was designed to:
 - 📩 **Contact Section** – Easy way for potential collaborators to get in touch
 - 🌐 **Deployed on Netlify** – For fast, secure hosting
 
----
 
 ## 🛠️ Tech Stack
 
@@ -49,8 +46,6 @@ The website was designed to:
 | **jQuery**     | Interactive behaviors        |
 | **Netlify**    | Deployment and hosting       |
 
-
----
 
 ## 📌 Notable Highlights
 
@@ -64,7 +59,6 @@ The website was designed to:
 **Created by:** https://github.com/piyush-linux
 **Role:** Fullstack Developer & Technical Consultant
 
----
 
 ## 📄 License
 
