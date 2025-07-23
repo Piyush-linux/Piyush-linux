@@ -20,3 +20,5 @@ A premier educational institution established in 1856. The site was developed us
 ---
 
 ## Screen Shots
+
+<img width="1604" height="1035" alt="image" src="https://github.com/user-attachments/assets/1adea141-cd13-480f-894f-05f251bf7849" />
