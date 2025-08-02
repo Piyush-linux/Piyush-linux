@@ -97,6 +97,10 @@ Built CMS dashboards or websites for educational institutions:
 
 * *(Projects using Large Language Models or AI tools)*
 
+### Blockchain & Crypto
+- Ek Cup Chai : Donation in Crypto (Similar to Buy me a Coffee)
+* *(Projects using Large Language Models or AI tools)*
+
 ### 🐧 Linux & Tools
 
 * **Openbox** – (Projects using Large Language Models or AI tools)
