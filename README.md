@@ -69,3 +69,34 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,mysql,flask" /><br>
 </div>
 
+---
+
+## 🚀 Projects
+
+### 🌐 Website Development
+
+* **Baiju Ghandat** – Personal or portfolio site.
+* **Luxury Home** – Real estate landing page
+  🔗 [Visit Site](https://elegant-home.netlify.app/)
+
+### 🖥️ CMS Applications
+
+Built CMS dashboards or websites for educational institutions:
+
+* **Elphinstone College**
+* **Secondary Training College**
+* **The Institute of Science**
+
+### 🧩 Fullstack Applications
+
+* *(Projects to be listed or in development)*
+
+### 🤖 LLM & AI Agents
+
+* *(Projects using Large Language Models or AI tools)*
+
+### 🐧 Linux & Tools
+
+* **Openbox** – (Projects using Large Language Models or AI tools)
+* **Packit** – (Projects using Large Language Models or AI tools)
+
