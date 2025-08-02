@@ -75,9 +75,11 @@
 
 ### 🌐 Website Development
 
-* **Baiju Ghandat** – Personal or portfolio site.
 * **Luxury Home** – Real estate landing page
   🔗 [Visit Site](https://elegant-home.netlify.app/)
+* **Plant Website** : https://piyush-linux.github.io/web-plant/
+* **Baiju Ghandat** – https://baijughandat.netlify.app
+
 
 ### 🖥️ CMS Applications
 
