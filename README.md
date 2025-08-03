@@ -77,6 +77,7 @@
 
 * **Luxury Home** – Real estate landing page
   🔗 [Visit Site](https://elegant-home.netlify.app/)
+  
 * **Plant Website** : https://piyush-linux.github.io/web-plant/
 * **Baiju Ghandat** – https://baijughandat.netlify.app
 
@@ -105,5 +106,5 @@ Built CMS dashboards or websites for educational institutions:
 
 * **Openbox** – (Projects using Large Language Models or AI tools)
 * **Packit** – (Projects using Large Language Models or AI tools)
-* **Namaskar** - Neofetch Minimal Version : [Visit Me !](https://github.com/Piyush-linux/namaskar)
+* **Namaskar** - Neofetch Minimal Version : [Visit Me !](https://github.com/Piyush-linux/namaskar) || https://namaskar-fetch.netlify.app/
 
